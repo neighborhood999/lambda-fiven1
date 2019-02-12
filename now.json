@@ -1,7 +1,6 @@
 {
   "version": 2,
   "name": "lambda-fiven1",
-  "alias": ["lambda-fiven1"],
   "builds": [
     { "src": "*.go", "use": "@now/go" }
   ]
