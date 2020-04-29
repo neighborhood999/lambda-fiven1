@@ -1,11 +1,11 @@
-package main
+package handler
 
 import (
 	"log"
 	"net/http"
 	"strconv"
 
-	"github.com/neighborhood999/fiveN1-rent-scraper"
+	rent "github.com/neighborhood999/fiveN1-rent-scraper"
 )
 
 func Handler(w http.ResponseWriter, r *http.Request) {
