@@ -1,20 +1,16 @@
 # lambda-fiven1
 
-The fiveN1 API in Now 2.0 Lambdas
-
 ## Installation
 
 ```shell
 $ make install
 ```
 
-## Deployment
+## Deploy Your Own
 
-Make sure the `vender` folder should be deployed.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/neighborhood999/lambda-fiven1)
 
-```shell
-$ now
-```
+After deployment, you can visit `[domain]/api` to check response.
 
 ## LICENSE
 

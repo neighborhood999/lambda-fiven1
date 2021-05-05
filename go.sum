@@ -7,6 +7,8 @@ github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135 h1:zLTLjkaOF
 github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135/go.mod h1:odCYkC5MyYFN7vkCjXpyrEuKhc/BUO6wN/zVPAxq5ck=
 github.com/neighborhood999/fiveN1-rent-scraper v1.2.1 h1:Yiuzq2bxuFIlLN43Nk/8CaaNUROp5QlGPBljf04ApKE=
 github.com/neighborhood999/fiveN1-rent-scraper v1.2.1/go.mod h1:yw+vDftskYZVAPh+4NKre+2CehPFpr+uOvLLQCYvwkA=
+github.com/neighborhood999/fiveN1-rent-scraper v1.2.2 h1:Kc9imlPT+gcm8/BJEZGa3NWxP6MoXwbkYqu6B1cwZhk=
+github.com/neighborhood999/fiveN1-rent-scraper v1.2.2/go.mod h1:bVTAg4yHiGF+az/At0HP7C3rxNbDrFVBwMjA8oqeRes=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.2.1/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/vinta/pangu v3.0.0+incompatible h1:kqW9Q5BrmWJkLJXLdxwbyPDjlizHUTpOCmHFCKfg1ZA=
